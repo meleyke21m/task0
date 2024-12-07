@@ -1,0 +1,84 @@
+
+
+body{
+   background-color: aqua;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   height: 100vh;
+   margin: 0;
+}
+
+.container{
+   background-color: rgb(189, 200, 209);
+   padding: 20px;
+   border-radius: 10px;
+   width: 90%;
+   max-width: 500px;
+}
+.div{
+   display: flex;
+   margin-bottom: 20px;
+}
+.div input{
+   flex: 1;
+   padding: 5px;
+   border-radius: 5px 0 0 5px;
+   outline: none;
+   border: 1px solid #fff;
+}
+.div button{
+   background-color: blueviolet;
+   border: none;
+   color: #fff;
+
+}
+
+.complete{
+   background-color:green;
+   color: #fff;
+   border: none;
+}
+.delete{
+   background-color: yellow;
+   color: #fff;
+   border: none;
+}
+.edit{
+   background-color:red;
+   color: #fff;
+   border: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
